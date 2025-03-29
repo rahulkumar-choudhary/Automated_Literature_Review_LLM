@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+datasets
+spacy
+nltk
+sentence_transformers
+tqdm
+wordcloud
+faiss-cpu
+transformers
+bertopic
+gensim
