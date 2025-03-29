@@ -12,3 +12,4 @@ faiss-cpu
 transformers
 bertopic
 gensim
+scikit-learn
